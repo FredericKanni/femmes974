@@ -30,10 +30,5 @@
 
         </form>
 
-        <div style="" class="bg-light">
-          <p style="font-size: 2rem; margin-bottom:0">3919*</p>
-          <p style="font-size: 0.8rem; margin:0">violence</p>
-          <p style="font-size: 0.8rem;margin:0">femme info</p>
-          </div>
-      </div>
+       
     </nav>
