@@ -3,8 +3,9 @@
 
 <?php include("includes/head.php"); ?>
 
-<body>
 
+<body>
+<?php include("includes/navbar.php"); ?>
     <?php include("includes/entête.php"); ?>
 
     <?php include("menu.php"); ?>
