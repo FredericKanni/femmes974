@@ -5,36 +5,37 @@
 
 
 <body>
-<?php include("includes/navbar.php"); ?>
+    <?php include("includes/navbar.php"); ?>
     <?php include("includes/entête.php"); ?>
 
     <?php include("menu.php"); ?>
 
     <!-- Le corps -->
 
-    <div id="corps" class="container">
+    <div id="corpsPage1" class="container">
         <div class="row">
-            <div class="card col-md-4">
-                <div style="width: 18rem;">
+            <div class="card col-md-3 mx-auto bordure">
+                <div>
                     <div class="card-body">
                         <h5 class="card-title">Besoin d'aide</h5>
                         <p class="card-text"> - Numéro </p>
                         <p class="card-text"> - Autres violence </p>
-                        <p class="card-text"> - F.A.Q </p>                        <button class="btn btn-outline-secondary" type="button" id="button-addon1">View details »</button>
-                    </div>
-                </div>
-            </div>
-            <div class="card col-md-4">
-                <div style="width: 18rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">Adhesion</h5>
-                        <p class="card-text">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nbh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis eusmod. Donec sed odio dui.</p>
+                        <p class="card-text"> - F.A.Q </p> 
                         <button class="btn btn-outline-secondary" type="button" id="button-addon1">View details »</button>
                     </div>
                 </div>
             </div>
-            <div class="card col-md-4 ">
-                <div style="width: 18rem;">
+            <div class="card col-md-3 mx-auto bordure">
+                <div>
+                    <div class="card-body">
+                        <h5 class="card-title">Adhesion</h5>
+                        <p class="card-text text-justify">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nbh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis eusmod. Donec sed odio dui.</p>
+                        <button class="btn btn-outline-secondary" type="button" id="button-addon1">View details »</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card col-md-3 mx-auto bordure">
+                <div>
                     <div class="card-body">
                         <h5 class="card-title">Historique</h5>
                         <p class="card-text"> - Témoignage </p>
@@ -46,6 +47,7 @@
             </div>
         </div>
     </div>
+    
 
     <div class="container text-content">
 

@@ -1,4 +1,4 @@
-<nav id="menu">        
+<!-- <nav id="menu">        
         <div class="element_menu">
             <h3>Titre menu</h3>
             <ul>
@@ -7,4 +7,4 @@
                 <li><a href="page3.php">Lien</a></li>
             </ul>
         </div>    
-    </nav>
+    </nav> -->

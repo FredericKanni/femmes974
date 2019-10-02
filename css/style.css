@@ -3,7 +3,12 @@ body {
 
 }
 
-#corps {
-    padding-top: 20px;
+#corpsPage1 {
+    margin-top: 50px;
     padding-bottom: 20px;
+    
+}
+
+.bordure {
+    border:3px solid #761C7F;
 }
