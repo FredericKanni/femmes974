@@ -12,7 +12,7 @@
     <!-- Le corps -->
 
     <div id="corps">
-        <h1>PAGE KRISHNA</h1>
+        <h1>Mon super site 3</h1>
         
         <p>
             Bienvenue sur mon super site !<br />
