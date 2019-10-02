@@ -15,6 +15,7 @@
 
   <?php include('includes/navbar.php'); ?>
   <?php include('jumbotron.php'); ?>
+  <?php include('tri.php'); ?>
     <?php include('formulaire.php'); ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
