@@ -12,7 +12,7 @@
     <!-- Le corps -->
 
     <div id="corps">
-        <h1>Mon super site 3</h1>
+        <h1>FEMMES 974</h1>
         
         <p>
             Bienvenue sur mon super site !<br />
@@ -22,6 +22,9 @@
 
 
     <?php include("includes/bootstrap.php"); ?>
+
+    <br><br><br> <br><br><br> <br><br><br> <br><br><br>
+
     <?php include("includes/piedpage.php"); ?>
 
 </body>
