@@ -10,13 +10,10 @@ body {
 }
 
 .bordure {
-    /* border:3px solid #761C7F; */
     border-radius: 30px 30px 30px 30px;
     box-shadow: inset 0 0 1em, 0 0 2em black;
 }
-/* .bordure {
-    
-} */
+
 
 .marge {
     padding-top: 4%;
