@@ -12,7 +12,7 @@
         <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">A Propos</a>
+        <a class="nav-link" href="apropos.php">A Propos</a>
       </li>
 
       <li class="nav-item">
