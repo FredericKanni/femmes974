@@ -11,9 +11,11 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    
+  <?php include("includes/nav2.php"); ?>
 
   <?php include('includes/nav2.php'); ?>
+
+  
   <?php include('jumbotron.php'); ?>
   <?php include('tri.php'); ?>
     <?php include('formulaire.php'); ?>
