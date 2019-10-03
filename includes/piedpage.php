@@ -1,4 +1,4 @@
-<footer id="piedpage">
+<footer id="piedpage" class="fixed-bottom">
 
 
         
