@@ -1,4 +1,4 @@
-<footer id="piedpage" class="text-light" style="position: absolute;bottom:0; width:100%;">
+<footer id="piedpage" class="text-light" style="top: 50px;">
   <!-- Footer -->
   <footer class="page-footer font-small bg-dark">
     <!-- Footer Links -->
