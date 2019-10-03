@@ -5,7 +5,7 @@
 
 <body>
 
-    <?php include("includes/navbar.php"); ?>
+    <?php include("includes/nav2.php"); ?>
     <?php include("includes/entête.php"); ?>
 
     <?php include("menu.php"); ?>
