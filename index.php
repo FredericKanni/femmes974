@@ -5,8 +5,8 @@
 
 
 <body>
-
     <?php include("includes/entête.php"); ?>
+
 
 
     <!-- Le corps -->

@@ -31,3 +31,15 @@ h1 {
 .fondBouton {
     background-color: white;
 }
+
+
+.imagefemme {
+    height:50vh;
+    background-image:url("./../img/femme_bleu.jpg");      
+    background-position: 70% 10%;
+    background-repeat: no-repeat;
+    background-size: 200vh ;
+}
+
+
+
