@@ -5,10 +5,7 @@
 
 <body>
 
-    <?php include("includes/nav2.php"); ?>
     <?php include("includes/entête.php"); ?>
-
-    <?php include("menu.php"); ?>
 
     <!-- Le corps -->
 

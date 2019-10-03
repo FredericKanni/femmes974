@@ -24,12 +24,6 @@
         <a class="nav-link" href="#">Contact</a>
       </li>
 
-
-      <!--
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-      -->
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="chercher">
@@ -39,16 +33,6 @@
 </nav>
 
 
-<!-- <div class="jumbotron jumbotron-fluid imagefemme"  
-
-style="
-height:50vh;
-background-image:url(./img/femme_bleu.jpg);      
-background-position: 70% 10%;
-background-repeat: no-repeat;
-background-size: 200vh ;
-"
-> -->
 <div class="jumbotron jumbotron-fluid imagefemme">
 
 
