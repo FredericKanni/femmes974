@@ -10,7 +10,7 @@
 
     <!-- main-->
 
-    <div class="bd-example m-3">
+    <div class="bd-example m-3 text-center">
         <div class="row">
             <div class="col-4">
                 <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column date mt-3 ml-1">
@@ -74,24 +74,24 @@
                         </p>
                         <h5 id="item-3">2014</h4>
                             <p>
-                                <span class="datage"> 17 Decembre : </span> Plan d'Action Régional en faveur de l'entreprenariat féminin <br>
-                                <span class="datage"> 23 Mai : </span> Assemblée générale ordinaire 23 mai 2014 - reportage <br>
-                                <span class="datage"> 8 Mars : </span> Evenement en partenariat avec le Planning familial St Paul - reportage <br>
+                                <span class="datage"> 17 Decembre : </span> Plan d'Action Régional en faveur de <a href="http://www.femmes974.info/Femmes974-actualites/F974-PAR-femmes974.html"> l'entreprenariat féminin </a><br>
+                                <span class="datage"> 23 Mai : </span> Assemblée générale ordinaire 23 mai 2014 - <a href="http://www.femmes974.info/Femmes974-actualites/AGO-2014-femmes974.html"> reportage </a><br>
+                                <span class="datage"> 8 Mars : </span> Evenement en partenariat avec le Planning familial St Paul - <a href="http://www.femmes974.info/Femmes974-actualites/8MARS-2014-femmes974.html"> reportage </a><br>
                                 <span class="datage"> 7 Mars : </span> 1ère Projection du documentaire "Miss representation" version française soutenu par la DRDFE et organisée conjointement avec l'Université . <br>
-                                <span class="datage"> noDate : </span> Programme mentotutoral "Femmes974" pour accompagner les femmes - inscrivez-vous
+                                <span class="datage"> noDate : </span> <a href="pdf/bilan1-femmes-TR-F974.pdf"> Programme mentotutoral </a> "Femmes974" pour accompagner les femmes - <a href="mailto:femmes974@gmail.com"> inscrivez-vous </a>
                             </p>
                             <h5 id="item-3-1">2013</h5>
                             <p>
-                                <span class="datage"> noDate : </span> Consulter le Rapport de la Commission Europeenne <br>
-                                <span class="datage"> 3 mai : </span> Table ronde "les femmes aux postes à responsabilité"- reportage <br>
-                                <span class="datage"> 5 Avril : </span> Table ronde "les femmes aux postes à responsabilité"- reportage <br>
-                                <span class="datage"> 8 Mars : </span> Article de presse de la Région Réunion le 8 mars 2013 <br>
-                                <span class="datage"> noDate : </span> Alerte à la veille pour le repérage des pubs sexistes - le blog <br>
-                                <span class="datage"> 1er Mars : </span> Table ronde "les femmes aux postes à responsabilité"- reportage
+                                <span class="datage"> noDate : </span> Consulter le Rapport de la <a href="http://www.femmes974.info/rapport-UE/index.html"> Commission Europeenne </a> <br>
+                                <span class="datage"> 3 mai : </span> Table ronde <a href="pdf/bilan1-femmes-TR-F974 (1).pdf"> "les femmes aux postes à responsabilité" </a>- <a href="http://www.femmes974.info/Femmes974-actualites/responsabilite3-femmes974.html"> reportage </a><br>
+                                <span class="datage"> 5 Avril : </span> Table ronde <a href="pdf/CR-Femmes-TR-05-04-2013.pdf"> "les femmes aux postes à responsabilité" </a>- <a href="http://www.femmes974.info/Femmes974-actualites/responsabilite2-femmes974.html"> reportage </a><br>
+                                <span class="datage"> 8 Mars : </span> <a href="pdf/mag-region-femmes974.pdf"> Article de presse de la Région Réunion le 8 mars 2013 </a><br>
+                                <span class="datage"> noDate : </span> Alerte à la veille pour le repérage des pubs sexistes - <a href="http://alertesexisme974.over-blog.com/"> le blog </a><br>
+                                <span class="datage"> 1er Mars : </span> Table ronde <a href="pdf/CR-Femmes-TR-01-03-2013.pdf"> "les femmes aux postes à responsabilité" </a> - <a href="http://www.femmes974.info/Femmes974-actualites/responsabilite-femmes974.html"> reportage </a>
                             </p>
                             <h5 id="item-3-2">2012</h5>
                             <p>
-                                <span class="datage"> 8 Mars : </span>Journée internationale des femmes à Saint Paul - reportage <br>
+                                <span class="datage"> 8 Mars : </span>Journée internationale des femmes à Saint Paul - <a href="http://www.femmes974.info/Femmes974-actualites/image-femmes974.html"> reportage </a> <br>
                                 <span class="datage"> noDate : </span> Travaux sur la beauté - Leyla ATOUI
                             </p>
 
