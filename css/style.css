@@ -27,7 +27,8 @@ a {
     font-family: 'Charm', cursive;
 }
 a:hover {
-    color: white;
+    color: gray;
+    text-decoration: none;
     
 }
 h1 {
@@ -60,11 +61,21 @@ p {
     padding-top: 2%;
 }
 
-.center{
-text-align: center
-    }
+
 
 h4 {
     font-family: 'Tangerine', serif;font-size: 2rem;
     font-weight: bold;
+}
+
+.contenu-blanc-avec-scroll{
+    width:600px;
+    height: 370px;
+    overflow:scroll;
+  }
+
+.date {
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: inset 0 0 1em, 0 0 2em black;
+    
 }

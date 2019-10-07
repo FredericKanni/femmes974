@@ -18,7 +18,7 @@
             <img class="w-75"  src="./img/groupe.jpg" alt="">
         </div>
 
-        <h4 class="text-uppercase  center">
+        <h4 class="text-uppercase  text-center">
         pourquoi ?
         </h4>
         <p class="text-justify">
@@ -30,7 +30,7 @@
         Sa mission est d'analyser les causes du harcèlement, des injustices, des violences envers les femmes afin d'élaborer des outils, de mettre en place des actions, de rassembler les solidarités, d'encourager le changement des mentalités, d'enclencher le respect et d'encourager les femmes à être ambitieuses et leaders dans tous les domaines de la vie privée, professionnelle et publique.
         </p>
 
-        <h4 class="text-uppercase  center">
+        <h4 class="text-uppercase  text-center">
         comment ?
         </h4>
 
