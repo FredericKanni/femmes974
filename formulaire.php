@@ -57,7 +57,7 @@
                         <input type="hidden" id="contact__token" name="contact[_token]" value="SeKVlvHceuUUMOUIGaQIVrcV0Ayn_cJdoa2Kv1nfffQ">
                     </form>
 
-                    <?php
+                    <!-- <php
                     if (isset($_POST['message'])) {
                         $position_arobase = strpos($_POST['email'], '@');
                         if ($position_arobase === false)
@@ -70,7 +70,7 @@
                                 echo '<p>Erreur.</p>';
                         }
                     }
-                    ?>
+                    ?> -->
                     <!--   FIN FORMULAIRE -->
 
                 </div>

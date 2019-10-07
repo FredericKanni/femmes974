@@ -55,7 +55,6 @@
 
     <?php include("includes/bootstrap.php"); ?>
     <?php include("includes/piedpage.php"); ?>
-    <script src="script.js"></script>
 </body>
 
 </html>
