@@ -49,7 +49,7 @@ h1 {
     background-size: 200vh ;
 }
 
-h1 {
+h1, h5 {
     font-family: 'Tangerine', serif;font-size: 96px;
 }
 
