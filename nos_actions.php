@@ -59,7 +59,7 @@
                         <span class="datage"> 25-26 Novembre : </span> Etats Généraux des violences faites aux femmes - <a href="http://www.femmes974.info/Femmes974-actualites/Femmes-EGVF-femmes974.html"> reportage </a><br>
                         <span class="datage"> 16 Septembre : </span> Réunion intermédiaire CA suivi plan d'actions - Saint Gilles les bains <br>
                         <span class="datage"> 2 Mai : </span> Assemblée générale ordinaire - <a href="http://www.femmes974.info/Femmes974-actualites/AGO-2016-femmes974.html"> reportage </a><br>
-                        <span class="datage"> 8 mars : </span> Femmes digitales avec la Cité des métiers : <a href="pdf/pionnieres-2016.pdf"> Les pionnières (télécharger le pdf)</a>, l'évolution du statut des femmes, et l'atelier des réalistarices "le clap" avec Le ballet des arrosoirs, terre marronne, dan fon dmon ker. <a href="http://www.femmes974.info/Femmes974-actualites/Femmes-digitales-2016.html"> reportage </a>
+                        <span class="datage"> 8 mars : </span> Femmes digitales avec la Cité des métiers : <a href="pdf/pionnieres-2016.pdf"> Les pionnières (télécharger le pdf)</a>, l'évolution du statut des femmes, <br>et l'atelier des réalistarices "le clap" avec Le ballet des arrosoirs, terre marronne, dan fon dmon ker. <a href="http://www.femmes974.info/Femmes974-actualites/Femmes-digitales-2016.html"> reportage </a>
                     </p>
                     <h5 id="item-2">2015</h4>
 
