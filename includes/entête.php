@@ -38,7 +38,9 @@
 
   <div class="container text-center">
     <h1 class="display-4">Femmes 974</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <p class="lead">   "Ne laissez jamais vos peurs vous empêcher de faire ce que vous savez juste"  <br>
+     -Aung San Suu Kyi- 
+                   </p>
   </div>
 </div>
 

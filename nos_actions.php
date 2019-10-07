@@ -32,20 +32,68 @@
 
             <div class="col-8 contenu-blanc-avec-scroll">
 
-                <h4 id="item-1">Item 1</h4>
-                <p>Ex consequat commodo adipisicing exercitation aute excepteur occaecat ullamco duis aliqua id magna ullamco eu. Do aute ipsum ipsum ullamco cillum consectetur ut et aute consectetur labore. Fugiat laborum incididunt tempor eu consequat enim dolore proident. Qui laborum do non excepteur nulla magna eiusmod consectetur in. Aliqua et aliqua officia quis et incididunt voluptate non anim reprehenderit adipisicing dolore ut consequat deserunt mollit dolore. Aliquip nulla enim veniam non fugiat id cupidatat nulla elit cupidatat commodo velit ut eiusmod cupidatat elit dolore.</p>
-                <h5 id="item-1-1">Item 1-1</h5>
-                <p>Amet tempor mollit aliquip pariatur excepteur commodo do ea cillum commodo Lorem et occaecat elit qui et. Aliquip labore ex ex esse voluptate occaecat Lorem ullamco deserunt. Aliqua cillum excepteur irure consequat id quis ea. Sit proident ullamco aute magna pariatur nostrud labore. Reprehenderit aliqua commodo eiusmod aliquip est do duis amet proident magna consectetur consequat eu commodo fugiat non quis. Enim aliquip exercitation ullamco adipisicing voluptate excepteur minim exercitation minim minim commodo adipisicing exercitation officia nisi adipisicing. Anim id duis qui consequat labore adipisicing sint dolor elit cillum anim et fugiat.</p>
-                <h5 id="item-1-2">Item 1-2</h5>
-                <p>Cillum nisi deserunt magna eiusmod qui eiusmod velit voluptate pariatur laborum sunt enim. Irure laboris mollit consequat incididunt sint et culpa culpa incididunt adipisicing magna magna occaecat. Nulla ipsum cillum eiusmod sint elit excepteur ea labore enim consectetur in labore anim. Proident ullamco ipsum esse elit ut Lorem eiusmod dolor et eiusmod. Anim occaecat nulla in non consequat eiusmod velit incididunt.</p>
-                <h4 id="item-2">Item 2</h4>
-                <p>Quis magna Lorem anim amet ipsum do mollit sit cillum voluptate ex nulla tempor. Laborum consequat non elit enim exercitation cillum aliqua consequat id aliqua. Esse ex consectetur mollit voluptate est in duis laboris ad sit ipsum anim Lorem. Incididunt veniam velit elit elit veniam Lorem aliqua quis ullamco deserunt sit enim elit aliqua esse irure. Laborum nisi sit est tempor laborum mollit labore officia laborum excepteur commodo non commodo dolor excepteur commodo. Ipsum fugiat ex est consectetur ipsum commodo tempor sunt in proident.</p>
-                <h4 id="item-3">Item 3</h4>
-                <p>Quis anim sit do amet fugiat dolor velit sit ea ea do reprehenderit culpa duis. Nostrud aliqua ipsum fugiat minim proident occaecat excepteur aliquip culpa aute tempor reprehenderit. Deserunt tempor mollit elit ex pariatur dolore velit fugiat mollit culpa irure ullamco est ex ullamco excepteur.</p>
-                <h5 id="item-3-1">Item 3-1</h5>
-                <p>Deserunt quis elit Lorem eiusmod amet enim enim amet minim Lorem proident nostrud. Ea id dolore anim exercitation aute fugiat labore voluptate cillum do laboris labore. Ex velit exercitation nisi enim labore reprehenderit labore nostrud ut ut. Esse officia sunt duis aliquip ullamco tempor eiusmod deserunt irure nostrud irure. Ullamco proident veniam laboris ea consectetur magna sunt ex exercitation aliquip minim enim culpa occaecat exercitation. Est tempor excepteur aliquip laborum consequat do deserunt laborum esse eiusmod irure proident ipsum esse qui.</p>
-                <h5 id="item-3-2">Item 3-2</h5>
-                <p>Labore sit culpa commodo elit adipisicing sit aliquip elit proident voluptate minim mollit nostrud aute reprehenderit do. Mollit excepteur eu Lorem ipsum anim commodo sint labore Lorem in exercitation velit incididunt. Occaecat consectetur nisi in occaecat proident minim enim sunt reprehenderit exercitation cupidatat et do officia. Aliquip consequat ad labore labore mollit ut amet. Sit pariatur tempor proident in veniam culpa aliqua excepteur elit magna fugiat eiusmod amet officia.</p>
+                <h5 id="item-1">2018</h4>
+                    <p> <span class="datage"> Novembre : </span> Marche NousToutes974 : RDV 10h St Gilles les bains Ermitage- (annulée) <br>
+                    <span class="datage">20 Novembre : </span> Conférence de presse NousToutes974 : Saint Denis 10h30 : Communiqué <br>
+                    <span class="datage"> 8 Novembre : </span> AG - Lancement mouvement NousToutes 974 - 24 novembre 2018 : Flyer<br>
+                    <span class="datage">19 mai : </span> Soirée courts métrages avec "ZétOIles" à la Cerise - St Paul : Programme <br>
+                    <span class="datage">3 mai : </span> Assemblée générale extraordinaire Femmes974 <br>
+                    <span class="datage"> 15 Mars : </span> Préparation du lancement du festival ZétOILES page <a href="#"> facebook</a> <br>
+                    <span class="datage">8 Mars : </span> Participation à la soirée"6 femmes à l'honneur" avec AFECT à Saint Benoît
+                    </p>
+                    <h5 id="item-1-1">2017</h5>
+                    <p>
+                    <span class="datage">20 Novembre : </span> RDV "O Café" rencontre réseau d'associations à St Denis Va Piano <br>
+                    <span class="datage">7 Novembre : </span> Manifestation contre les inégalités de salaires : RDV St Paul front de mer <br>
+                    <span class="datage">6 avril : </span> Atelier "mieux connaître les métiers de l'audiovisuel et du cinéma" Université reportage <br>
+                    <span class="datage"> 8 Mars : </span> Les pionnières françaises - Lycée Ambroise Vollard - St Pierre - reportage <br>
+                    <span class="datage"> 3 Mars : </span> Réunion intermédiaire CA suivi plan d'actions - Saint Gilles les bains <br>
+                    <span class="datage"> 23 Fevrier : </span> Emission les témoins d'outre mer France O: interview Marianne Grossesses précoces <br>
+                    <span class="datage"> 15 Fevrier : </span> Radio PIKAN (Etang Salé les bains) : interview Marianne
+
+
+                    </p>
+                    <h5 id="item-1-2">2016</h5>
+                    <p>
+                    <span class="datage"> 9 Décembre : </span> Rassemblement laïque à Saint Pierre - les grandes dates des droits des femmes - reportage <br>
+                    <span class="datage"> 25-26 Novembre : </span> Etats Généraux des violences faites aux femmes - reportage <br>
+                    <span class="datage"> 16 Septembre : </span> Réunion intermédiaire CA suivi plan d'actions - Saint Gilles les bains <br>
+                    <span class="datage"> 2 Mai : </span> Assemblée générale ordinaire - reportage <br>
+                    <span class="datage"> 8 mars : </span> Femmes digitales avec la Cité des métiers : Les pionnières (télécharger le pdf), l'évolution du statut des femmes, et l'atelier des réalistarices "le clap" avec Le ballet des arrosoirs, terre marronne, dan fon dmon ker. reportage
+                    </p>
+                    <h5 id="item-2">2015</h4>
+
+                        <p>
+                        <span class="datage"> 21 Octobre : </span> Séminaire "FEMMES LEADERS" organisé conjointement avec l'université de la Réunion : reportage et compte rendu <br>
+                        <span class="datage"> 8 Octobre : </span> Préparation du Séminaire "FEMMES LEADERS" : programme <br>
+                        <span class="datage"> 1-2 Octobre : </span> Femmes 974 au Carreco, carrefour des communes de la Réunion : reportage <br>
+                        <span class="datage"> Juin : </span> Préparation du séminaire "femmes leaders 974" 21 octobre 2015 : Donnez votre avis <br>
+                        <span class="datage"> 15 Mai : </span> Assemblée générale ordinaire 15 mai 2015 - reportage <br>
+                        <span class="datage"> 6 Mars : </span> Femmes digitales avec la Cité des métiers et projection de "Miss representation" reportage <br>
+                        <span class="datage"> 30 Janvier : </span> Les trophées des femmes précieuses : une table Femmes 974 - reportage
+                        </p>
+                        <h5 id="item-3">2014</h4>
+                            <p>
+                            <span class="datage"> 17 Decembre : </span> Plan d'Action Régional en faveur de l'entreprenariat féminin <br>
+                            <span class="datage"> 23 Mai : </span> Assemblée générale ordinaire 23 mai 2014 - reportage <br>
+                            <span class="datage"> 8 Mars : </span> Evenement en partenariat avec le Planning familial St Paul - reportage <br>
+                            <span class="datage"> 7 Mars : </span> 1ère Projection du documentaire "Miss representation" version française soutenu par la DRDFE et organisée conjointement avec l'Université . <br>
+                            <span class="datage"> noDate : </span> Programme mentotutoral "Femmes974" pour accompagner les femmes - inscrivez-vous
+                            </p>
+                            <h5 id="item-3-1">2013</h5>
+                            <p>
+                            <span class="datage"> noDate : </span> Consulter le Rapport de la Commission Europeenne <br>
+                            <span class="datage"> 3 mai : </span> Table ronde "les femmes aux postes à responsabilité"- reportage <br>
+                            <span class="datage"> 5 Avril : </span> Table ronde "les femmes aux postes à responsabilité"- reportage <br>
+                            <span class="datage"> 8 Mars : </span> Article de presse de la Région Réunion le 8 mars 2013 <br>
+                            <span class="datage"> noDate : </span> Alerte à la veille pour le repérage des pubs sexistes - le blog <br>
+                            <span class="datage"> 1er Mars : </span> Table ronde "les femmes aux postes à responsabilité"- reportage
+                            </p>
+                            <h5 id="item-3-2">2012</h5>
+                            <p>
+                            <span class="datage"> 8 Mars : </span>Journée internationale des femmes à Saint Paul - reportage <br>
+                            <span class="datage"> noDate : </span> Travaux sur la beauté - Leyla ATOUI
+                            </p>
 
             </div>
         </div>
