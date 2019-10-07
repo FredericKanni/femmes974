@@ -11,7 +11,7 @@
 
 
 
-<h4 class=" text-uppercase text-center title-liens" > liens et ressources documentaires</h4>
+<h4 class=" text-uppercase text-center title-liens" > Réseaux Association et Liens utiles</h4>
 
 
 <h4 class="  text-center">

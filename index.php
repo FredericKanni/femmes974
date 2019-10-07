@@ -38,7 +38,7 @@
                         <h5 class="card-title card-accueil">Historique</h5>
                         <p class="card-text"><a href="temoignage.php"> - Témoignage </a></p>
                         <p class="card-text"><a href="formulaire.php"> - Contact </a></p>
-                        <p class="card-text"><a href=""> - Réseau d'assotiation </a></p>
+                        <p class="card-text"><a href="liens.php"> - Réseau d'assotiation </a></p>
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@
 
     <!-- main-->
 
-    <div class="bd-example m-3 text-center">
+    <div class="container text-center">
         <div class="row">
             <div class="col-4">
                 <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column date mt-3 ml-1">
