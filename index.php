@@ -16,7 +16,7 @@
             <div class="card col-md-3 mx-auto bordure">
                 <div>
                     <div class="card-body">
-                        <h5 class="card-title">Besoin d'aide</h5>
+                        <h5 class="card-title card-accueil">Besoin d'aide</h5>
                         <p class="card-text"><a href="#"> - Numéro </a></p>
                         <p class="card-text"><a href="#"> - Autres violence </a></p>
                         <p class="card-text"><a href="#"> - F.A.Q </a></p> 
@@ -26,7 +26,7 @@
             <div class="card col-md-3 mx-auto bordure marge text-center">
                 <div>
                     <div class="card-body">
-                        <h5 class="card-title">Adhesion</h5>
+                        <h5 class="card-title card-accueil">Adhesion</h5>
                         <p class="card-text text-justify"> </p>
                         <button class="btn btn-outline-light" type="button" id="button-addon1">Bouton </button>
                     </div>
@@ -35,7 +35,7 @@
             <div class="card col-md-3 mx-auto bordure">
                 <div>
                     <div class="card-body bgcol">
-                        <h5 class="card-title">Historique</h5>
+                        <h5 class="card-title card-accueil">Historique</h5>
                         <p class="card-text"><a href="temoignage.php"> - Témoignage </a></p>
                         <p class="card-text"><a href="formulaire.php"> - Contact </a></p>
                         <p class="card-text"><a href=""> - Réseau d'assotiation </a></p>
