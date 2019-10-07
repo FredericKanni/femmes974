@@ -8,6 +8,7 @@
     <!-- Fichier Css -->
     <link rel="stylesheet" href="./css/style.css">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
    <!--kit font awesome-->
     <script src="https://kit.fontawesome.com/447a908b2b.js" crossorigin="anonymous"></script>
