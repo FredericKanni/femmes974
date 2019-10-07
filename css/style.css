@@ -23,7 +23,7 @@ body {
 }
 
 a {
-    color: black;
+    color: #C44185;
     font-family: 'Charm', cursive;
 }
 a:hover {
@@ -50,7 +50,7 @@ h1 {
 }
 
 h1, h5 {
-    font-family: 'Tangerine', serif;font-size: 96px;
+    font-family: 'Tangerine', serif;
 }
 
 p {
@@ -78,4 +78,8 @@ h4 {
     border-radius: 30px 30px 30px 30px;
     box-shadow: inset 0 0 1em, 0 0 2em black;
     
+}
+
+.datage {
+    color: #761C7F;
 }
