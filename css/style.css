@@ -1,6 +1,5 @@
 body {
     background-color: #E5E7E9;
-    
 
 }
 
@@ -48,9 +47,8 @@ h1 {
     background-size: 200vh ;
 }
 
-.h4{
-    font-family : 'Montserrat-black', 'Montserrat', sans-serif;
-    font-size: 32px;
-    padding-bottom: 0.5em; 
-} 
+h1 {
+    font-family: 'Tangerine', serif;font-size: 96px;
+}
+
 
