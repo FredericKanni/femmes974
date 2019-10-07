@@ -28,6 +28,7 @@ a {
 }
 a:hover {
     color: white;
+    text-decoration: none;
     
 }
 h1 {
@@ -58,4 +59,16 @@ p {
 
 .tem {
     padding-top: 2%;
+}
+
+.contenu-blanc-avec-scroll{
+    width:600px;
+    height: 370px;
+    overflow:scroll;
+  }
+
+.date {
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: inset 0 0 1em, 0 0 2em black;
+    
 }
