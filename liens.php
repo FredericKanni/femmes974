@@ -11,7 +11,7 @@
 
 
 
-<h4 class=" text-uppercase text-center" > liens et ressources documentaires</h4>
+<h4 class=" text-uppercase text-center title-liens" > liens et ressources documentaires</h4>
 
 
 <h4 class="  text-center">
@@ -299,5 +299,5 @@
 
     <?php include("includes/bootstrap.php"); ?>
     <?php include("includes/piedpage.php"); ?>
-    <script src="js/script.js"></script>
+
 </body>
