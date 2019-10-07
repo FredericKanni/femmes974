@@ -36,7 +36,7 @@
       <!-- Call to action -->
       <ul class="list-unstyled list-inline text-center py-2">
         <li class="list-inline-item">
-          <a href="#!" class="btn btn-danger btn-rounded">PARTENAIRES</a>
+          <a href="liens.php" class="btn btn-danger btn-rounded" onclick="window.location.href='nouveauclient.php';" >PARTENAIRES</a>
         </li>
       </ul>
       <!-- Call to action -->

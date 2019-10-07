@@ -37,24 +37,6 @@
         </div>
     </div>
     <!---->
-     <!---->
-     <div class="card mb-3 w-100" >
-        <div class="row no-gutters">
-            
-            <div class="col-md-2">
-                <img src="..." class="card-img" alt="...">
-            </div>
-
-            <div class="col-md-10">
-            <div class="card-body">
-                <h5 class="card-title">	<a href="http://www.defenseurdesdroits.fr/" target="_blank">Défenseur des droits de la République française</a></h5>
-             
-            </div>
-            </div>
-
-        </div>
-    </div>
-    <!---->
 </div>
 
 
