@@ -12,7 +12,7 @@
 
     <div class="bd-example m-3">
         <div class="row">
-            <div class="col-4 date">
+            <div class="col-4">
                 <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column date mt-3 ml-1">
                     <nav class="nav nav-pills flex-column">
                         <a class="nav-link" href="#item-1">2018</a>
