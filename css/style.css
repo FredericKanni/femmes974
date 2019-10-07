@@ -59,3 +59,12 @@ p {
 .tem {
     padding-top: 2%;
 }
+
+.center{
+text-align: center
+    }
+
+h4 {
+    font-family: 'Tangerine', serif;font-size: 2rem;
+    font-weight: bold;
+}

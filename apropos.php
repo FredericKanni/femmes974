@@ -18,7 +18,9 @@
             <img class="w-75"  src="./img/groupe.jpg" alt="">
         </div>
 
-
+        <h4 class="text-uppercase  center">
+        pourquoi ?
+        </h4>
         <p class="text-justify">
          Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.
         </p>
@@ -28,7 +30,7 @@
         Sa mission est d'analyser les causes du harcèlement, des injustices, des violences envers les femmes afin d'élaborer des outils, de mettre en place des actions, de rassembler les solidarités, d'encourager le changement des mentalités, d'enclencher le respect et d'encourager les femmes à être ambitieuses et leaders dans tous les domaines de la vie privée, professionnelle et publique.
         </p>
 
-        <h4 class="text-uppercase ">
+        <h4 class="text-uppercase  center">
         comment ?
         </h4>
 
@@ -71,7 +73,7 @@
 
 
             <?php include("includes/bootstrap.php"); ?>
-            <?php /*include("includes/piedpage.php");*/ ?>
+            <?php include("includes/piedpage.php"); ?>
             
 </body>
 
