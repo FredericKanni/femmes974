@@ -1,6 +1,6 @@
 <?php include("includes/head.php"); ?>
 <body>
-<?php include("includes/navbar.php"); ?>
+<?php include("includes/entête.php"); ?>
 
 
 <div class="container  ">
